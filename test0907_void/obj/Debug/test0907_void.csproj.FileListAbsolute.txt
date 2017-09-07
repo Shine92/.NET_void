@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2015\Projects\test0907_void\test0907_void\bin\Debug\test0907_void.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\test0907_void\test0907_void\obj\Debug\test0907_void.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\test0907_void\test0907_void\obj\Debug\test0907_void.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\test0907_void\test0907_void\obj\Debug\test0907_void.csproj.GenerateResource.Cache
